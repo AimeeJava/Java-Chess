@@ -1,0 +1,10 @@
+2
+white R f 8
+black R b 1
+6
+f 8 f 1
+b 1 b 8
+f 1 e 1
+b 8 d 8
+e 1 e 4
+d 8 d 5
